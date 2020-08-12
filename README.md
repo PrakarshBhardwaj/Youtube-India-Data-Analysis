@@ -1,5 +1,5 @@
 # Data Analysis and Visulization of What Trends on Youtube India
-#### <a href="https://nbviewer.jupyter.org/github/PrakarshBhardwaj/Youtube-India-Data-Analysis/blob/master/youtube_india_data_analysis.ipynb">nbviewer</a> <div align="left"><a href="https://www.kaggle.com/datasnaek/youtube-new">Dataset</a></div>  
+#### <a href="https://nbviewer.jupyter.org/github/PrakarshBhardwaj/Youtube-India-Data-Analysis/blob/master/youtube_india_data_analysis.ipynb">nbviewer</a>
 <div align="centre"><img src="imgs/yt.png"></dev>  
   
 ## Data Preprocessing  
@@ -81,4 +81,9 @@ Workcloud of most popular tags on trending.
 <img src="imgs/wordcloud.png">  
   
   
-## Dataset  
+## Info  
+Dataset Used - [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)  
+My Kaggle Notebook - [Kernel](https://www.kaggle.com/ninjaprakarsh/trendingindiayoutube)  
+  
+  
+@PrakarshBhardwaj
