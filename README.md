@@ -2,11 +2,11 @@
 
 ## Data Preprocessing  
 * Handing datetime and Timestamp data.  
-*
+
 * Map category ID of each trending to the category it was tredning in.  
-*
+
 * Creating new variable *Number of Words in Title* to analyse how it effect trending.  
-*
+
 * Creating new variable *External links in video discription*. We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
   
 * Dislike Fraction - How many of the assesments were dislikes.  
