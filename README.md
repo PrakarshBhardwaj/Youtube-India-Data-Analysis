@@ -32,7 +32,7 @@
   
   
 ### Feature Correlation - Spearman  
-We use *spearman correlation* to account for non-linear corelations as well.
+We use *spearman correlation* to account for non-linear corelations as well.  
 <img src="imgs/featurecorr.png">  
   
   
@@ -45,12 +45,12 @@ We use *spearman correlation* to account for non-linear corelations as well.
   
   
 ### Most trending channels  
-Channels which made it to trending most.
+Channels which made it to trending most.  
 <img src="imgs/trending_channels.png">  
   
   
 ### Most trending topics  
-Topics under which most vidoes made it to trending.
+Topics under which most vidoes made it to trending.  
 <img src="imgs/trending_channels.png">  
   
   
