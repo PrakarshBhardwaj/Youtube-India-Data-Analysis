@@ -29,8 +29,10 @@
 <img src="imgs/firstvisual.png">  
   
   
+  
 ### Trending v/s Time published  
 <img src="imgs/trendingvtime.png">  
+  
   
   
 ### Feature Correlation - Spearman  
@@ -38,8 +40,10 @@ We use *spearman correlation* to account for non-linear corelations as well.
 <img src="imgs/featurecorr.png">  
   
   
+  
 ### Effect of length of title on trending  
 <img src="imgs/titleword.png">  
+  
   
   
 ### Effect of external links  
@@ -47,9 +51,12 @@ We use *spearman correlation* to account for non-linear corelations as well.
 We see a sharp dip from 0 to 2 and then a rise again.  
 This maybe happing because music vidoes easily to trending and include more links to their other social media whereas channels include 2-4 links.  
   
+  
+  
 ### Popular channels  
 Channels whose vidoes make it to trending the most.  
 <img src="imgs/trending_channels.png">  
+  
   
   
 ### Trending topics  
@@ -57,12 +64,15 @@ Topics under which most vidoes made it to trending.
 <img src="imgs/trending_topics.png">  
   
   
+  
 ### Days before trending  
 <img src="imgs/days_taken.png">  
   
   
+  
 ### Most Hated Videos  
 <img src="imgs/hated.png">  
+  
   
   
 ### Tags  
