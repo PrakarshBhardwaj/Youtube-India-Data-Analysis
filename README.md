@@ -11,7 +11,7 @@
   * We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
   
 * Dislike Fraction - How many of the assesments were dislikes.  
-*Note - Some of the trending vidoes had 0 likes and 0 dislikes. To overcome this we use weighted laplance moving instead of actual ratio of dislikes/(dislikes +           likes).*  
+  * *Note - Some of the trending vidoes had 0 likes and 0 dislikes. To overcome this we use weighted laplance moving instead of actual ratio of dislikes/(dislikes +            likes).*  
   
 * Handing missing values.  
   
