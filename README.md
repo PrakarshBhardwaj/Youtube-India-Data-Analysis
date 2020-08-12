@@ -24,5 +24,5 @@
   
 ## Data Visulization  
 ### Views, Comments, Dislikes and Likes Distributions  
-<img src="imgs/firstvisual.png" width="400px">  
+<img src="imgs/firstvisual.png">  
 
