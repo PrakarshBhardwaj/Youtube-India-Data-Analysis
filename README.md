@@ -25,4 +25,7 @@
 ## Data Visulization  
 ### Views, Comments, Dislikes and Likes Distributions  
 <img src="imgs/firstvisual.png">  
-
+  
+### Trending v/s Time published
+<img src="imgs/trendingvtime.png">  
+  
