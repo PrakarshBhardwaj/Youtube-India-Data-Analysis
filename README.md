@@ -51,7 +51,7 @@ Channels which made it to trending most.
   
 ### Most trending topics  
 Topics under which most vidoes made it to trending.  
-<img src="imgs/trending_channels.png">  
+<img src="imgs/trending_topics.png">  
   
   
 ### Days before trending  
