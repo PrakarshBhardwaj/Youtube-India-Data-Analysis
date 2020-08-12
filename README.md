@@ -26,10 +26,43 @@
 ### Views, Comments, Dislikes and Likes Distributions  
 <img src="imgs/firstvisual.png">  
   
+  
 ### Trending v/s Time published  
 <img src="imgs/trendingvtime.png">  
+  
   
 ### Feature Correlation - Spearman  
 We use *spearman correlation* to account for non-linear corelations as well.
 <img src="imgs/trendingvtime.png">  
+  
+  
+### Title Word Count v/s Trending  
+<img src="imgs/titleword.png">  
+  
+  
+### External Links in Video Discription v/s Trending  
+<img src="imgs/ext_links.png">  
+  
+  
+### Most trending channels  
+Channels which made it to trending most.
+<img src="imgs/trending_channels.png">  
+  
+  
+### Most trending topics  
+Topics under which most vidoes made it to trending.
+<img src="imgs/trending_channels.png">  
+  
+  
+### Days before trending  
+<img src="imgs/days_taken.png">  
+  
+  
+### Most Hated Videos  
+<img src="imgs/hated.png">  
+  
+  
+### Tags  
+Lets create a workcloud to a picture of most popular tags.  
+<img src="imgs/wordcloud.png">  
   
