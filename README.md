@@ -19,6 +19,8 @@
   
 * Creating new variable *average views per day*.  
   
+**Preprocessed Data is available in preprocessed_vids.csv**  
+  
   
 ## Data Visulization  
 ### Views, Comments, Dislikes and Likes Distributions  
