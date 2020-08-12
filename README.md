@@ -3,9 +3,9 @@
 ## Data Preprocessing  
 * Handing datetime and Timestamp data.  
 
-* Map category ID of each trending to the category it was tredning in.  
+* Map category ID of each video to the category it was tredning in.  
 
-* Creating new variable *Number of Words in Title* to analyse how it effect trending.  
+* Creating new variable *Number of Words in Title* to analyse how title length effects trending as people prefer concise titles.  
 
 * Creating new variable *External links in video discription*. We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
   
@@ -14,7 +14,7 @@
   
 * Handing missing values.  
   
-* Creating new variable *Days before trending*.  
+* Creating new variable *Days before trending* to analyse how long does it takes on average for a video to make it to trending.  
   
 * Creating new variable *average views per day*.  
   
