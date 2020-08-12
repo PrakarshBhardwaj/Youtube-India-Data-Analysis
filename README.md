@@ -1,5 +1,5 @@
 # Data Analysis and Visulization of What Trends on Youtube India
-#### <a href="https://nbviewer.jupyter.org/github/PrakarshBhardwaj/Youtube-India-Data-Analysis/blob/master/youtube_india_data_analysis.ipynb">nbviewer</a>
+>#### <a href="https://nbviewer.jupyter.org/github/PrakarshBhardwaj/Youtube-India-Data-Analysis/blob/master/youtube_india_data_analysis.ipynb">nbviewer</a>
 <div align="centre"><img src="imgs/yt.png"></dev>  
   
 ## Data Preprocessing  
@@ -55,8 +55,8 @@ Title with  75 to 85 words tend to do the best.
 ### Effect of external links  
 <img src="imgs/ext_links.png">  
   
-We see a sharp dip from 0 to 2 and then a rise again.  
-This maybe happing because music vidoes easily to trending and include more links to their other social media whereas channels include 2-4 links.  
+>We see a sharp dip from 0 to 2 and then a rise again.  
+>This maybe happing because music vidoes easily to trending and include more links to their other social media whereas channels include 2-4 links.  
   
   
   
