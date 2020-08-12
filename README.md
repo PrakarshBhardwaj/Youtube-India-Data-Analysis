@@ -26,13 +26,15 @@
   
 ## Data Visulization  
 ### Views, Comments, Dislikes and Likes Distributions  
-Log Distributions of views, comments, dislikes and likes.  
+>Log Distributions of views, comments, dislikes and likes.  
+  
 <img src="imgs/firstvisual.png">  
   
   
   
 ### Trending v/s Time published  
-*Which time of the day is best to publish videos?*  
+>*Which time of the day is best to publish videos?*  
+  
 <img src="imgs/trendingvtime.png">  
   
 >Videos published on early morning and afternoon make to trending the most, however this maybe effected the the popularity of channels pushlish videos at these hours.    
@@ -40,7 +42,8 @@ Log Distributions of views, comments, dislikes and likes.
   
   
 ### Feature Correlation - Spearman  
-We use *spearman correlation* to account for non-linear corelations as well.  
+>We use *spearman correlation* to account for non-linear corelations as well.  
+  
 <img src="imgs/featurecorr.png">  
   
   
@@ -48,8 +51,8 @@ We use *spearman correlation* to account for non-linear corelations as well.
 ### Effect of length of title on trending  
 <img src="imgs/titleword.png">  
   
-Title with  75 to 85 words tend to do the best.  
-*Note - This doesn't accounts for blank spaces*  
+>Title with  75 to 85 words tend to do the best.  
+>*Note - This doesn't accounts for blank spaces*  
   
   
 ### Effect of external links  
@@ -61,13 +64,15 @@ Title with  75 to 85 words tend to do the best.
   
   
 ### Popular channels  
-Channels whose vidoes make it to trending the most.  
+>Channels whose vidoes make it to trending the most.  
+  
 <img src="imgs/trending_channels.png">  
   
   
   
 ### Trending topics  
-Topics under which most vidoes made it to trending.  
+>Topics under which most vidoes made it to trending. 
+  
 <img src="imgs/trending_topics.png">  
   
   
@@ -83,7 +88,8 @@ Topics under which most vidoes made it to trending.
   
   
 ### Tags  
-Workcloud of most popular tags on trending.  
+>Workcloud of most popular tags on trending.  
+  
 <img src="imgs/wordcloud.png">  
   
   
@@ -94,4 +100,4 @@ My Kaggle Notebook - [Kernel](https://www.kaggle.com/ninjaprakarsh/trendingindia
   
   
   
-@PrakarshBhardwaj
+>@PrakarshBhardwaj
