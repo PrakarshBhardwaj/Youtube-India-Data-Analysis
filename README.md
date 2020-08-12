@@ -33,7 +33,7 @@
   
 ### Feature Correlation - Spearman  
 We use *spearman correlation* to account for non-linear corelations as well.
-<img src="imgs/trendingvtime.png">  
+<img src="imgs/featurecorr.png">  
   
   
 ### Title Word Count v/s Trending  
