@@ -48,6 +48,7 @@ We use *spearman correlation* to account for non-linear corelations as well.
   
 ### Effect of external links  
 <img src="imgs/ext_links.png">  
+  
 We see a sharp dip from 0 to 2 and then a rise again.  
 This maybe happing because music vidoes easily to trending and include more links to their other social media whereas channels include 2-4 links.  
   
