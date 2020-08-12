@@ -32,10 +32,10 @@ Log Distributions of views, comments, dislikes and likes.
   
   
 ### Trending v/s Time published  
-Which time of the day is best to publish videos?
+Which time of the day is best to publish videos?  
 <img src="imgs/trendingvtime.png">  
   
-Looks like publishing in early morning and afternoon yields best results.  
+<!-- Looks like publishing in early morning and afternoon yields best results. -->  
   
   
   
