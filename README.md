@@ -26,6 +26,10 @@
 ### Views, Comments, Dislikes and Likes Distributions  
 <img src="imgs/firstvisual.png">  
   
-### Trending v/s Time published
+### Trending v/s Time published  
+<img src="imgs/trendingvtime.png">  
+  
+### Feature Correlation - Spearman  
+We use *spearman correlation* to account for non-linear corelations as well.
 <img src="imgs/trendingvtime.png">  
   
