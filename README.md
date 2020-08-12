@@ -76,6 +76,6 @@ Topics under which most vidoes made it to trending.
   
   
 ### Tags  
-Lets create a workcloud to a picture of most popular tags.  
+Workcloud of most popular tags on trending.  
 <img src="imgs/wordcloud.png">  
   
