@@ -26,12 +26,16 @@
   
 ## Data Visulization  
 ### Views, Comments, Dislikes and Likes Distributions  
+Log Distributions of views, comments, dislikes and likes.  
 <img src="imgs/firstvisual.png">  
   
   
   
 ### Trending v/s Time published  
+Which time of the day is best to publish videos?
 <img src="imgs/trendingvtime.png">  
+  
+Looks like publishing in early morning and afternoon yields best results.  
   
   
   
@@ -44,6 +48,8 @@ We use *spearman correlation* to account for non-linear corelations as well.
 ### Effect of length of title on trending  
 <img src="imgs/titleword.png">  
   
+Title with  75 to 85 words tend to do the best.  
+*Note - This doesn't accounts for blank spaces*  
   
   
 ### Effect of external links  
