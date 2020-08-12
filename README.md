@@ -7,14 +7,15 @@
 
 * Creating new variable *Number of Words in Title* to analyse how title length effects trending as people prefer concise titles.  
 
-* Creating new variable *External links in video discription*. We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
+* Creating new variable *External links in video discription*. 
+-* We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
   
 * Dislike Fraction - How many of the assesments were dislikes.  
 *Note - Some of the trending vidoes had 0 likes and 0 dislikes. To overcome this we use weighted laplance moving instead of actual ratio of dislikes/(dislikes +           likes).*  
   
 * Handing missing values.  
   
-* Creating new variable *Days before trending* to analyse how long does it takes on average for a video to make it to trending.  
+* Creating new variable *Days before trending*.  
   
 * Creating new variable *average views per day*.  
   
