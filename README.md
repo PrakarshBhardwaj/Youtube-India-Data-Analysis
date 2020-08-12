@@ -7,7 +7,7 @@
 
 * Creating new variable *Number of Words in Title* to analyse how title length effects trending as people prefer concise titles.  
 
-* Creating new variable *External links in video discription*. 
+* Creating new variable *External links in video discription*.  
 ..* We have heard that youtube algorithm favoures videos with no external links. Lets see its effects on trending.  
   
 * Dislike Fraction - How many of the assesments were dislikes.  
