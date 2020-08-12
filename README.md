@@ -1,7 +1,7 @@
-<img src="imgs/yt.png">  
 # Data Analysis and Visulization of What Trends on Youtube India
 #### <a href="https://nbviewer.jupyter.org/github/PrakarshBhardwaj/Youtube-India-Data-Analysis/blob/master/youtube_india_data_analysis.ipynb">nbviewer</a>  
-
+<img src="imgs/yt.png" align="middle">  
+  
 ## Data Preprocessing  
 * Handing datetime and Timestamp data.  
 
