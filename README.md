@@ -36,20 +36,21 @@ We use *spearman correlation* to account for non-linear corelations as well.
 <img src="imgs/featurecorr.png">  
   
   
-### Title Word Count v/s Trending  
+### Effect of length of title on trending  
 <img src="imgs/titleword.png">  
   
   
-### External Links in Video Discription v/s Trending  
+### Effect of external links  
 <img src="imgs/ext_links.png">  
+We see a sharp dip from 0 to 2 and then a rise again.  
+This maybe happing because music vidoes easily to trending and include more links to their other social media whereas channels include 2-4 links.  
   
-  
-### Most trending channels  
-Channels which made it to trending most.  
+### Popular channels  
+Channels whose vidoes make it to trending the most.  
 <img src="imgs/trending_channels.png">  
   
   
-### Most trending topics  
+### Trending topics  
 Topics under which most vidoes made it to trending.  
 <img src="imgs/trending_topics.png">  
   
