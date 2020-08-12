@@ -32,10 +32,10 @@ Log Distributions of views, comments, dislikes and likes.
   
   
 ### Trending v/s Time published  
-Which time of the day is best to publish videos?  
+*Which time of the day is best to publish videos?*  
 <img src="imgs/trendingvtime.png">  
   
-<!-- Looks like publishing in early morning and afternoon yields best results. -->  
+Videos published on early morning and afternoon make to trending the most, however this maybe effected the the popularity of channels pushlish videos at these hours.    
   
   
   
